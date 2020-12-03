@@ -1,0 +1,21 @@
+{
+  "name": "recipefinder",
+  "version": "1.0.0",
+  "description": "yummly api recipe finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taesch124/RecipeFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taesch124/RecipeFinder/issues"
+  },
+  "homepage": "https://github.com/taesch124/RecipeFinder#readme",
+  "dependencies": {
+  }
+}
